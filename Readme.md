@@ -50,9 +50,9 @@ ___
 
 ![Bucket Policy](images/s3-bucket-policy.jpg)
 
-### S3 bucket access point page
+### S3 bucket Access Control List
 
-![Bucket Access Points](images/s3-bucket-access-points.jpeg)
+![Bucket Access Control](images/s3-bucket-access-control-list.jpg)
 
 ### S3 Bucket object page
 
